@@ -1,3 +1,6 @@
+### This code is associated with the paper from Biswas et al., "Epistasis and entrenchment of drug resistance in HIV-1 subtype B". eLife, 2019. http://dx.doi.org/10.7554/eLife.50524
+
+
 # elife data
 The files contained in here are the processed data files used to infer the Potts models and annotated as below:
 
